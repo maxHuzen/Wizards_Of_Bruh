@@ -1,2 +1,2 @@
-# Wizards_Of_Bruh
+# Wizards of Bruh
 Magical roguelike dungeon crawler
